@@ -1,0 +1,8 @@
+algo=ETCHASH
+pool=etc-us-east1.nanopool.org:10143
+user=0x1075eb6522f54433F4246195c6829c23A3aCC389.lolMiner
+dns-over-https=2
+lhrtune=auto
+mode=s
+tls=on
+disable-dag-verify=1
